@@ -17,6 +17,7 @@ namespace S18_SalesWeb_MVC
             CreateWebHostBuilder(args).Build().Run();
         }
 
+        //****METODO
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<StartupBase>();

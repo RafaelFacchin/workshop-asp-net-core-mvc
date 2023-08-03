@@ -15,6 +15,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Trabalhos\Desktop\UDEMY Cursos\CURSOS\PROJETOS\SECTION_18_PROJ_ASP_NET\S18_SalesWeb_MVC\S18_SalesWeb_MVC
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Trabalhos/Desktop/UDEMY Cursos/CURSOS/PROJETOS/SECTION_18_PROJ_ASP_NET/S18_SalesWeb_MVC/S18_SalesWeb_MVC/View/Home/Privacy.razor]
+build_metadata.AdditionalFiles.TargetPath = Vmlld1xIb21lXFByaXZhY3kucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Trabalhos/Desktop/UDEMY Cursos/CURSOS/PROJETOS/SECTION_18_PROJ_ASP_NET/S18_SalesWeb_MVC/S18_SalesWeb_MVC/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -37,6 +41,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Trabalhos/Desktop/UDEMY Cursos/CURSOS/PROJETOS/SECTION_18_PROJ_ASP_NET/S18_SalesWeb_MVC/S18_SalesWeb_MVC/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Trabalhos/Desktop/UDEMY Cursos/CURSOS/PROJETOS/SECTION_18_PROJ_ASP_NET/S18_SalesWeb_MVC/S18_SalesWeb_MVC/View/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld1xIb21lXEFib3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Trabalhos/Desktop/UDEMY Cursos/CURSOS/PROJETOS/SECTION_18_PROJ_ASP_NET/S18_SalesWeb_MVC/S18_SalesWeb_MVC/Pages/Shared/_Layout.cshtml]
